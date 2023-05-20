@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.qiuzhiwu.top/2021/08/20/8-20/</loc>
+    <loc>http://www.qiuzhiwu.top/2023/05/08/%E4%B8%93%E5%8D%87%E6%9C%AC/</loc>
     
     <lastmod>2023-05-20</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>http://www.qiuzhiwu.top/2023/05/08/%E4%B8%93%E5%8D%87%E6%9C%AC/</loc>
+    <loc>http://www.qiuzhiwu.top/2021/08/20/8-20/</loc>
     
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -142,14 +142,14 @@
   </url>
   
   <url>
-    <loc>http://www.qiuzhiwu.top/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>http://www.qiuzhiwu.top/tags/Blog/</loc>
     <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.qiuzhiwu.top/tags/Blog/</loc>
+    <loc>http://www.qiuzhiwu.top/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
